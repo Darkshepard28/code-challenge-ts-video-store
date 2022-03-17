@@ -8,5 +8,5 @@ scable based on the desire to add new movie categories and subsiquental calculat
 I spent approximately 3.5 hours working on the actual solution to the problem. I spent an additional 3 hours in the beginning just trying to refresh my knowledge of npm. 
 
 ## Commands to Test
-npm run statement \n
-npm run html-statement
+1. npm run statement 
+2. npm run html-statement
