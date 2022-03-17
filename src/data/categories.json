@@ -1,0 +1,5 @@
+{
+  "regular": { "defaultAmount": 2, "feeDay": 2, "feeRate": 1.5 },
+  "childrens": { "defaultAmount": 1.5, "feeDay": 3, "feeRate": "1.5" },
+  "sci-fi": { "defaultAmount": 3, "feeDay": 2, "feeRate": "1.5" }
+}
